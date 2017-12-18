@@ -1,1 +1,2 @@
 *.gz filter=lfs diff=lfs merge=lfs -text
+genomics_de_novo_downloaded_results.tar.gz filter=lfs diff=lfs merge=lfs -text
